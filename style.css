@@ -29,6 +29,8 @@ p {
 footer {
   margin-top: 170px;
 }
+footer p a {
+  color: yellow;
 
 /* Github */
 a #github {
